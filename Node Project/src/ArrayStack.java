@@ -1,3 +1,7 @@
+// RÜYA BOZCAN
+// COMPUTER ENGINEERING 
+// ABU
+
 package com.company;
 
 public class ArrayStack<E> implements Stack<E> {
@@ -41,3 +45,7 @@ public class ArrayStack<E> implements Stack<E> {
         return top + 1;
     }
 }
+
+// RÜYA BOZCAN
+// COMPUTER ENGINEERING 
+// ABU
