@@ -1,3 +1,7 @@
+// RÜYA BOZCAN
+// COMPUTER ENGINEERING 
+// ABU
+
 package com.company;
 
 import java.util.*;
@@ -64,3 +68,7 @@ public class LinkedList<T>{
         return result.substring(0,result.length()-1);
     }
 }
+
+// RÜYA BOZCAN
+// COMPUTER ENGINEERING 
+// ABU
