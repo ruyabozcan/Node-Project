@@ -1,3 +1,7 @@
+// RÜYA BOZCAN
+// COMPUTER ENGINEERING 
+// ABU
+
 package com.company;
 
 public interface Queue<Y> {
@@ -6,3 +10,7 @@ public interface Queue<Y> {
     boolean hashItems();
     int size();
 }
+
+// RÜYA BOZCAN
+// COMPUTER ENGINEERING 
+// ABU
