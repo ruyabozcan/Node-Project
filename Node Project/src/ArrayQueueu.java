@@ -1,3 +1,7 @@
+// RÜYA BOZCAN
+// COMPUTER ENGINEERING 
+// ABU
+
 package com.company;
 
 public class ArrayQueueu<Y> implements Queue<Y> {
@@ -42,3 +46,7 @@ public class ArrayQueueu<Y> implements Queue<Y> {
         return top + 1;
     }
 }
+
+// RÜYA BOZCAN
+// COMPUTER ENGINEERING 
+// ABU
