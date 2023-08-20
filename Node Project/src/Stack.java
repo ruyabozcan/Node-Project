@@ -1,3 +1,7 @@
+// RÜYA BOZCAN
+// COMPUTER ENGINEERING 
+// ABU
+
 package com.company;
 
 public interface Stack<E> {
@@ -6,3 +10,7 @@ public interface Stack<E> {
     boolean hashItems();
     int size();
 }
+
+// RÜYA BOZCAN
+// COMPUTER ENGINEERING 
+// ABU
