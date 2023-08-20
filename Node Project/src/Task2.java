@@ -1,3 +1,7 @@
+// RÜYA BOZCAN
+// COMPUTER ENGINEERING 
+// ABU
+
 package com.company;
 
 import java.util.*;
@@ -115,3 +119,7 @@ public class Task2 {
         return false;
     }
 }
+
+// RÜYA BOZCAN
+// COMPUTER ENGINEERING 
+// ABU
